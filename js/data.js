@@ -26,7 +26,7 @@ window.data = {
         "y_dhss",
         "y_dzpj",
         "y_ftq",
-        "y_jlx",
+ 
         "y_jrjss",
         "y_krz",
         "y_lhxy",
